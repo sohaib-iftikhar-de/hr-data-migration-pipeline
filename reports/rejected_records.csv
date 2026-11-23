@@ -1,0 +1,318 @@
+source_system,source_id,first_name,last_name,source_file,failed_rules,details
+APAC,300010,Zara,Wong,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,300028,Mia,Singh,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,300150,Emma,Muller,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,300153,,Miller,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Miller"
+APAC,300157,,Nguyen,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Nguyen"
+APAC,300160,,Tan,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Tan"
+APAC,300185,Wei,Schmidt,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,300210,,Sato,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Sato"
+APAC,300247,,Taylor,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Taylor"
+APAC,300254,Priya,Clark,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,300270,Emma,Garcia,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,300326,Aisha,Smith,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,300356,Chloe,Sato,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,300372,Sakura,Johnson,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,300464,Aisha,Kumar,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,300497,Ethan,Brown,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,300536,,Johnson,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Johnson"
+APAC,300583,Zara,Tanaka,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,300592,Jack,Lim,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,300733,Chloe,Walker,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,300738,Elias,Singh,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,300748,,Fischer,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Fischer"
+APAC,300758,,Khan,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Khan"
+APAC,300884,Ava,Lim,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,300903,Mei,Nguyen,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,300907,Chen,Taylor,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,300963,Priya,Taylor,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301006,Isla,Garcia,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,301012,Noah,Smith,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,301063,,Smith,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Smith"
+APAC,301084,Elias,Tanaka,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301090,Ruby,Schmidt,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301112,,Hansen,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Hansen"
+APAC,301162,Zara,Brown,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301180,Liam,Miller,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301183,Ben,Kumar,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301185,Sofia,Sato,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301187,Liam,Nguyen,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301224,,Clark,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Clark"
+APAC,301242,,Wilson,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Wilson"
+APAC,301261,Ava,Smith,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301275,,Smith,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Smith"
+APAC,301314,Liam,Hansen,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,301343,,Walker,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Walker"
+APAC,301384,,Fischer,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Fischer"
+APAC,301431,Leo,Schmidt,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301441,,Weber,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Weber"
+APAC,301503,,Muller,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Muller"
+APAC,301521,,Miller,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Miller"
+APAC,301676,,Clark,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Clark"
+APAC,301677,Mason,Taylor,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301685,Liam,Hansen,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301711,Mei,Tanaka,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301745,Anna,Tanaka,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301756,Sakura,Schmidt,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,301777,Lea,Kumar,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301783,Liam,Clark,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301792,Ethan,Sato,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301820,Noah,Hansen,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301851,Ruby,Schmidt,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301907,Elias,Miller,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301908,,Tan,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Tan"
+APAC,301936,Liam,Brown,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,301976,Ava,Miller,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,301978,Olivia,Muller,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,301985,Ethan,Sato,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,302021,Zara,Johnson,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,302028,Mei,Taylor,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,302088,Ben,Taylor,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,302091,,Johnson,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Johnson"
+APAC,302093,Mia,Muller,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,302107,Jonas,Walker,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,302162,Liam,Singh,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,302166,Jonas,Taylor,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,302180,Isla,Garcia,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,302188,,Miller,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Miller"
+APAC,302231,Olivia,Garcia,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,302280,,Davis,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Davis"
+APAC,302298,Priya,Kumar,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,302326,,Davis,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Davis"
+APAC,302340,Lukas,Wilson,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,302354,,Hansen,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Hansen"
+APAC,302393,,Miller,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Miller"
+APAC,302416,Chen,Garcia,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,302498,Emma,Taylor,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,302597,Sakura,Tan,apac_sf_workers.json,unmapped_job_code,unmapped_job_code: job code: J-999
+APAC,302610,Ben,Taylor,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,302618,,Brown,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Brown"
+APAC,302626,,Lim,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Lim"
+APAC,302628,Sakura,Miller,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,302630,Elias,Singh,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,302747,,Walker,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Walker"
+APAC,302758,Wei,Miller,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,302792,Priya,Tan,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,302820,,Davis,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Davis"
+APAC,302834,Lea,Taylor,apac_sf_workers.json,invalid_birth_date,invalid_birth_date: raw value: <blank>
+APAC,302880,Chloe,Kumar,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,302910,Emma,Muller,apac_sf_workers.json,unmapped_country,unmapped_country: country: XXX
+APAC,302978,,Lim,apac_sf_workers.json,missing_name,"missing_name: first_name=<null>, last_name=Lim"
+EU,10000001,Omar,Hansen,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10000064,Jack,Lim,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10000072,Hiro,Wilson,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10000358,Arjun,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Arjun, last_name=<null>"
+EU,10000368,Chen,Clark,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10000412,Arjun,Nguyen,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2024-10-10, end_date=2024-09-10 | status_end_date_mismatch: status=Active, end_date=2024-09-10"
+EU,10000427,Mason,Sato,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10000445,Lukas,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Lukas, last_name=<null>"
+EU,10000483,Arjun,Wilson,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10000524,Elias,Kumar,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10000543,Olivia,Walker,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10000582,Anna,Kumar,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10000595,Liam,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Liam, last_name=<null>"
+EU,10000669,Wei,Khan,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10000677,Jack,Weber,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2018-08-02, end_date=2018-07-03 | status_end_date_mismatch: status=Active, end_date=2018-07-03"
+EU,10000725,Jonas,Ali,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10000731,Chen,Lim,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2018-10-09, end_date=2018-09-09 | status_end_date_mismatch: status=Active, end_date=2018-09-09"
+EU,10000738,Liam,Nguyen,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10000783,Olivia,Sato,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2014-11-21, end_date=2014-10-22 | status_end_date_mismatch: status=Active, end_date=2014-10-22"
+EU,10000836,Ruby,Lim,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10000873,Lea,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Lea, last_name=<null>"
+EU,10000901,Hiro,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Hiro, last_name=<null>"
+EU,10000909,Mei,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Mei, last_name=<null>"
+EU,10000931,Ben,Smith,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10000951,Mei,Schmidt,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10000953,Sofia,Fischer,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10001031,Chen,Miller,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10001036,Chen,Muller,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2011-02-17, end_date=2011-01-18 | status_end_date_mismatch: status=Active, end_date=2011-01-18"
+EU,10001041,Omar,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Omar, last_name=<null>"
+EU,10001084,Elias,Smith,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10001190,Liam,Schmidt,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2007-05-19, end_date=2007-04-19 | status_end_date_mismatch: status=Active, end_date=2007-04-19"
+EU,10001224,Mason,Miller,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10001316,Ethan,Fischer,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2011-05-11, end_date=2011-04-11 | status_end_date_mismatch: status=Active, end_date=2011-04-11"
+EU,10001317,Priya,Ali,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10001338,Aisha,Johnson,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10001367,Aisha,Taylor,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2021-08-23, end_date=2021-07-24 | status_end_date_mismatch: status=Active, end_date=2021-07-24"
+EU,10001456,Omar,Wilson,eu_sap_workers.csv,end_before_hire,"end_before_hire: hire_date=2011-01-13, end_date=2010-12-14"
+EU,10001466,Elias,Smith,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10001490,Lea,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Lea, last_name=<null>"
+EU,10001556,Chen,Taylor,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10001575,Sofia,Berg,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10001596,Wei,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Wei, last_name=<null>"
+EU,10001614,Mason,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Mason, last_name=<null>"
+EU,10001635,Anna,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Anna, last_name=<null>"
+EU,10001638,Noah,Wong,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2023-12-23, end_date=2023-11-23 | status_end_date_mismatch: status=Active, end_date=2023-11-23"
+EU,10001654,Ethan,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Ethan, last_name=<null>"
+EU,10001701,Hiro,Taylor,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10001767,Sakura,Clark,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10001772,Mason,Khan,eu_sap_workers.csv,end_before_hire,"end_before_hire: hire_date=2018-04-23, end_date=2018-03-24"
+EU,10001811,Isla,Berg,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10001814,Chen,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Chen, last_name=<null>"
+EU,10001816,Ethan,Johnson,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10001862,Sofia,Walker,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2020-08-22, end_date=2020-07-23 | status_end_date_mismatch: status=Active, end_date=2020-07-23"
+EU,10001898,Ava,Miller,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10001956,Ruby,Miller,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2005-09-29, end_date=2005-08-30 | status_end_date_mismatch: status=Active, end_date=2005-08-30"
+EU,10001975,Elias,Wilson,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002023,Chloe,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Chloe, last_name=<null>"
+EU,10002127,Hiro,Tanaka,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002129,Noah,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Noah, last_name=<null>"
+EU,10002144,Isla,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Isla, last_name=<null>"
+EU,10002168,Zara,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Zara, last_name=<null>"
+EU,10002175,Elias,Schmidt,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002205,Sakura,Clark,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2016-04-17, end_date=2016-03-18 | status_end_date_mismatch: status=Active, end_date=2016-03-18"
+EU,10002210,Jack,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Jack, last_name=<null>"
+EU,10002227,Aisha,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Aisha, last_name=<null>"
+EU,10002272,Sofia,Davis,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2008-07-30, end_date=2008-06-30 | status_end_date_mismatch: status=Active, end_date=2008-06-30"
+EU,10002273,Zara,Miller,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002283,Hiro,Smith,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002301,Aisha,Weber,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002325,Arjun,Garcia,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002376,Lea,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Lea, last_name=<null>"
+EU,10002445,Ethan,Hansen,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002480,Arjun,Lim,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002486,Jonas,Tan,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002492,Ruby,Johnson,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002504,Olivia,Weber,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002563,Chen,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Chen, last_name=<null>"
+EU,10002566,Ruby,Johnson,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002577,Olivia,Muller,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002585,Mei,Brown,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002598,Emma,Muller,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002607,Chen,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Chen, last_name=<null>"
+EU,10002613,Liam,Khan,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002635,Ruby,Kumar,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002640,Sakura,Smith,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2018-05-04, end_date=2018-04-04 | status_end_date_mismatch: status=Active, end_date=2018-04-04"
+EU,10002651,Arjun,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Arjun, last_name=<null>"
+EU,10002662,Zara,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Zara, last_name=<null>"
+EU,10002667,Emma,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Emma, last_name=<null>"
+EU,10002693,Ruby,Walker,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002699,Ben,Davis,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002752,Lea,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Lea, last_name=<null>"
+EU,10002760,Jack,Singh,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2005-06-17, end_date=2005-05-18 | status_end_date_mismatch: status=Active, end_date=2005-05-18"
+EU,10002852,Jonas,Weber,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002860,Liam,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Liam, last_name=<null>"
+EU,10002861,Isla,Lim,eu_sap_workers.csv,"end_before_hire, status_end_date_mismatch","end_before_hire: hire_date=2023-03-10, end_date=2023-02-08 | status_end_date_mismatch: status=Active, end_date=2023-02-08"
+EU,10002863,Isla,Hansen,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002887,Lukas,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Lukas, last_name=<null>"
+EU,10002913,Anna,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Anna, last_name=<null>"
+EU,10002972,Chloe,Berg,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002976,Olivia,Fischer,eu_sap_workers.csv,unmapped_job_code,unmapped_job_code: job code: 59999999
+EU,10002981,Lea,Walker,eu_sap_workers.csv,invalid_birth_date,invalid_birth_date: raw value: 31.02.1988
+EU,10002986,Chloe,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Chloe, last_name=<null>"
+EU,10002994,Lukas,,eu_sap_workers.csv,missing_name,"missing_name: first_name=Lukas, last_name=<null>"
+NA,200019,Jonas,Weber,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,200054,Chloe,Lim,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,200099,Lea,Kumar,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,200115,Chen,Tan,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,200122,Mason,Sato,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,200127,Lukas,Khan,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200127,Lukas,Khan,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200140,Jonas,Fischer,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,200145,Lukas,Khan,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,200156,Hiro,Taylor,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,200165,Liam,Garcia,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200165,Liam,Garcia,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200168,Liam,Lim,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,200181,Hiro,Wilson,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,200260,Isla,Schmidt,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200260,Isla,Schmidt,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200276,Leo,Tanaka,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200276,Leo,Tanaka,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200288,Aisha,Fischer,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,200290,Isla,Khan,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,200297,Hiro,Tanaka,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,200338,Mei,Miller,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,200345,Zara,Johnson,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,200390,Emma,Kumar,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,200398,Arjun,Taylor,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,200420,Wei,Garcia,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,200440,Lukas,Davis,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,200446,Liam,Tan,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,200471,Elias,Tan,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,200496,Leo,Davis,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,200542,Priya,Clark,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,200547,Anna,Nguyen,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,200580,Wei,Weber,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,200669,Lea,Clark,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,200804,Lukas,Weber,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200804,Lukas,Weber,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200831,Mei,Berg,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,200878,Mia,Schmidt,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,200911,Mei,Nguyen,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200911,Mei,Nguyen,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,200995,Leo,Muller,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,201061,Mia,Sato,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,201126,Anna,Weber,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,201127,Noah,Schmidt,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,201132,Hiro,Wong,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,201132,Hiro,Wong,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,201149,Noah,Lim,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,201239,Priya,Taylor,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,201288,Mei,Smith,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,201320,Isla,Brown,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,201361,Ava,Fischer,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,201393,Sakura,Khan,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,201397,Ruby,Sato,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,201428,Jack,Kumar,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,201460,Mason,Muller,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,201491,Mia,Schmidt,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,201516,Priya,Schmidt,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,201530,Isla,Sato,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,201580,Ruby,Singh,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,201587,Mason,Nguyen,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,201587,Mason,Nguyen,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,201620,Olivia,Singh,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,201670,Mason,Smith,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,201698,Arjun,Ali,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,201698,Arjun,Ali,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,201756,Chen,Davis,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,201756,Chen,Davis,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,201768,Liam,Berg,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,201777,Omar,Kumar,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,201802,Ava,Berg,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,201805,Arjun,Kumar,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,201884,Olivia,Wong,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,201884,Olivia,Wong,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,201908,Jack,Sato,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,201917,Liam,Ali,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202035,Mei,Ali,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202050,Sofia,Smith,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202065,Leo,Taylor,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,202079,Omar,Khan,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,202088,Liam,Wong,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202091,Anna,Wilson,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202158,Elias,Lim,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,202168,Ethan,Miller,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202175,Liam,Smith,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202216,Jack,Smith,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202217,Chloe,Tanaka,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202221,Zara,Fischer,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202223,Lukas,Ali,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,202223,Lukas,Ali,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,202246,Liam,Khan,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202275,Jonas,Walker,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202292,Ruby,Schmidt,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,202301,Leo,Khan,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,202301,Leo,Khan,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,202339,Mason,Davis,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202340,Ben,Weber,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,202340,Ben,Weber,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,202342,Lukas,Sato,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202346,Arjun,Ali,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202370,Chen,Lim,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,202370,Chen,Lim,na_oracle_workers.csv,conflicting_duplicate_id,conflicting_duplicate_id: ID appears 2 times with different values
+NA,202401,Anna,Hansen,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202623,Wei,Nguyen,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202640,Jack,Wilson,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202687,Ruby,Tanaka,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202717,Leo,Sato,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202723,Ruby,Wilson,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202725,Sofia,Schmidt,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202751,Ruby,Tanaka,na_oracle_workers.csv,invalid_salary,invalid_salary: raw value: N/A
+NA,202781,Priya,Ali,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202806,Chloe,Clark,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202929,Lea,Davis,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202949,Ben,Walker,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)
+NA,202950,Anna,Tan,na_oracle_workers.csv,unmapped_status,unmapped_status: status: SUSP_ASSIGN
+NA,202951,Noah,Ali,na_oracle_workers.csv,implausible_birth_date,implausible_birth_date: birth_date=2031-05-04 (age must be 16-100)

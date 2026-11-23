@@ -1,0 +1,37 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: hr-migration-db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: hr_migration
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d hr_migration"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  # Optional ingestion layer. Start with:  docker compose --profile nifi up -d
+  # UI: http://localhost:8080/nifi  (needs ~2 GB RAM, takes 1-2 minutes to start)
+  nifi:
+    image: apache/nifi:1.28.1
+    container_name: hr-migration-nifi
+    profiles: ["nifi"]
+    environment:
+      NIFI_WEB_HTTP_PORT: "8080"
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data/input:/opt/nifi/input:ro          # source extracts
+      - ./nifi/drivers:/opt/nifi/drivers:ro      # PostgreSQL JDBC driver
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  pgdata:
